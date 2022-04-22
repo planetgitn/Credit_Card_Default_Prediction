@@ -1,7 +1,7 @@
 # Credit_Card_Default_Prediction
 
 
-![image](https://www.debt.com/wp-content/uploads/2014/05/Credit-Card-Visa-Master-Card.jpg)
+![image](https://d187qskirji7ti.cloudfront.net/news/wp-content/uploads/2016/11/credit-card-lock-1.jpg)
 
 
 ## Predicting the customers with default payments
